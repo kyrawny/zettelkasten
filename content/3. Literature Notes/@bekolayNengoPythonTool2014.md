@@ -13,7 +13,7 @@ authors:
   - "Eliasmith, Chris"
 year: 2014
 container: Frontiers in Neuroinformatics
-URL: "https://www.frontiersin.org/articles/10.3389/fninf.2013.00048/full"
+external_URL: "https://www.frontiersin.org/articles/10.3389/fninf.2013.00048/full"
 DOI: 10.3389/fninf.2013.00048
 citekey: bekolayNengoPythonTool2014
 aliases:

@@ -3,7 +3,7 @@ type: video
 title: "8 Chess Concepts Every Chess Player Should Know - Chess Principles, Ideas, Strategies and Tips"
 authors:
   - Chess Vibes
-URL: "https://www.youtube.com/watch?v=aRy8A3-1A9I"
+external_URL: "https://www.youtube.com/watch?v=aRy8A3-1A9I"
 citekey: chessvibesChessConceptsEvery
 aliases:
   - "8 Chess Concepts Every Chess Player Should Know - Chess Principles, Ideas, Strategies and Tips"

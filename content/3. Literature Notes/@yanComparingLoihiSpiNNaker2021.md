@@ -14,7 +14,7 @@ authors:
   - "Mayr, Christian"
 year: 2021
 container: Neuromorphic Computing and Engineering
-URL: "https://iopscience.iop.org/article/10.1088/2634-4386/abf150"
+external_URL: "https://iopscience.iop.org/article/10.1088/2634-4386/abf150"
 DOI: 10.1088/2634-4386/abf150
 citekey: yanComparingLoihiSpiNNaker2021
 aliases:
