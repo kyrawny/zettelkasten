@@ -1,4 +1,5 @@
 ---
+title: "Kyra's Zettelkasten"
 tags:
   - context-note
 ---
