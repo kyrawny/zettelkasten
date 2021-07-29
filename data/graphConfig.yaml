@@ -1,5 +1,5 @@
-enableLegend: false
+enableLegend: true
 enableDrag: true
 enableZoom: true
 paths:
-  - /moc: "#4388cc"
+  - /2. Project Notes: "#4388cc"
