@@ -1,6 +1,7 @@
-# Quartz
-Simple second brain and digital garden.
+# kyra's zettelkasten
 
-> “He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+my second brain
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+> “Every intellectual endeavour starts with a note.” — Dr. Sönke Ahrens
+
+🔗 https://kyrawny.github.io/zettelkasten/
