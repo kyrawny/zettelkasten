@@ -6,7 +6,7 @@ tags:
 
 # Contexts
 
-[Chess](Chess.md) | *ECO A18 English Opening - Mikenas-Carls Variation*
+[Context - Chess](Context-Chess.md) | *ECO A18 English Opening - Mikenas-Carls Variation*
 
 ---
 

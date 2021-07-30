@@ -38,7 +38,7 @@ c) Summary/conclusion (underscoring the main idea your review)
 
 ### Literature Notes
 
-[yanComparingLoihiSpiNNaker2021](yanComparingLoihiSpiNNaker2021.md)
+* [yanComparingLoihiSpiNNaker2021](yanComparingLoihiSpiNNaker2021.md)
 
 ## Quick Notes
 
@@ -61,4 +61,18 @@ quick notes on the spinnaker 2 paper:
 
 ## Outline
 
+## -
 
+Every connection between neurons in a deep neural network is assigned a weight. Inputs to the deep neural network are multiplied by these weights. Thus, in the forward pass of a deep neural network, much of the computation done consists of vector matrix multiplications. In computing, these calculations are achieved through the accumulation of products, via multiply-accumulate operations.
+
+Multiply accumulate operations are more efficient on the MAC arrays than general purpose processors because of their ability to perform the multiply accumulate operations in parallel. General purpose processors with complex instruction set computing need to fetch both operands into the registers, perform the multiply-accumulate, write the result back, check the condition of the loop, and then compute the addresses of the data in the next iteration.
+
+MAC arrays, on the other hand, enable Single Instruction Multiple Data (SIMD) operation: in each clock cycle, multiple values from both operands are fed into the array, with all MAC units in the same row receiving the same value from one operand and all MAC units in the same column receiving the same value from the other operand. This allows for many MAC operations to be done in parallel - one for each MAC unit. When paired with a general-purpose processor, the latter can control logic of data arranging and data transfer to the MAC array in parallel to the MAC operations. This parallelization greatly increases the efficiency of multiply-accumulate operations, and thus greatly reduces the time needed to perform a forward pass in a DNN.
+
+## -
+
+Neuromorphic hardware platforms like Loihi have dedicated circuits for synapses and neurons to increase the efficiency of spiking neural network models implemented on them. However, this results in less flexible systems that cannot be used to implement more diverse models, that additionally do not have specialized tools to handle specific types of computations.
+
+In contrast to this "hard-coded" platform design, at the core of SpiNNaker 2 are general purpose processors (ARM cores) that can handle a large variety of synapse and neuron models and learning rules, increasing the flexibility of the platform. SpiNNaker 2 supplements these general purpose processors with numerical accelerators and MAC arrays that efficiently handle more specific tasks: the former can be used to perform computations like exponential function and random number generation that are found often in neuromorphic models; the latter enables highly parallelized execution of multiply-accumulate operations for matrix operations that are found often in the operations of both SNNs and DNNs ([202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs](202107291348-Multiply-accumulate-arrays-efficiently-perform-matrix-multiplications-in-DNNs.md)).
+
+While platforms with dedicated circuits like Loihi are faster than the more generalized SpiNNaker 2 for inputs with lower dimensions due to their more integrated processing for neuron updates, this performance difference is negated for high-dimensional inputs due to the parallelized input processing enabled by the MAC arrays in SpiNNaker 2 - many slightly slower computations done at the same time will be faster than many slightly faster computations done one by one. Beyond that, SpiNNaker still maintains the flexibility needed to run DNNs instead of SNNs where the task can be more effectively done by a DNN.

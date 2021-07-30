@@ -14,7 +14,7 @@ tags:
 
 # Contexts
 
-[Chess](Chess.md) | \[\[\]\]
+[Context - Chess](Context-Chess.md) | \[\[\]\]
 
 ---
 

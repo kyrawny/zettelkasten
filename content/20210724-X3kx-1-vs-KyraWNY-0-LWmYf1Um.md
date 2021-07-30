@@ -6,7 +6,7 @@ tags:
 
 # Contexts
 
-[Chess](Chess.md) | *ECO A53 Old Indian Defense*
+[Context - Chess](Context-Chess.md) | *ECO A53 Old Indian Defense*
 
 ---
 

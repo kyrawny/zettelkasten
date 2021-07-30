@@ -39,10 +39,12 @@ Neuroscience currently lacks a comprehensive theory of how cognitive processes c
 
 ## Notes
 
+### 
+
 ## Notable References
 
 ## To-do
 
-* [ ] Add contexts
+* [x] Add contexts
 * [ ] Add notes
 * [ ] Convert notes

@@ -6,7 +6,7 @@ tags:
 
 # Contexts
 
-[Chess](Chess.md) | *ECO A28 English Opening - King's English Variation, Four Knights Variation, Quiet Line*
+[Context - Chess](Context-Chess.md) | *ECO A28 English Opening - King's English Variation, Four Knights Variation, Quiet Line*
 
 ---
 

@@ -15,6 +15,8 @@ tags:
 
 # 202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs
 
+## -
+
 Every connection between neurons in a deep neural network is assigned a weight. Inputs to the deep neural network are multiplied by these weights. Thus, in the forward pass of a deep neural network, much of the computation done consists of vector matrix multiplications. In computing, these calculations are achieved through the accumulation of products, via multiply-accumulate operations.
 
 Multiply accumulate operations are more efficient on the MAC arrays than general purpose processors because of their ability to perform the multiply accumulate operations in parallel. General purpose processors with complex instruction set computing need to fetch both operands into the registers, perform the multiply-accumulate, write the result back, check the condition of the loop, and then compute the addresses of the data in the next iteration.

@@ -15,6 +15,8 @@ tags:
 
 # 202107291603 MAC arrays, a tool for DNNs, can be used to supplement the performance of SNNs with high-dimensional inputs, while maintaining system flexibility
 
+## -
+
 Neuromorphic hardware platforms like Loihi have dedicated circuits for synapses and neurons to increase the efficiency of spiking neural network models implemented on them. However, this results in less flexible systems that cannot be used to implement more diverse models, that additionally do not have specialized tools to handle specific types of computations.
 
 In contrast to this "hard-coded" platform design, at the core of SpiNNaker 2 are general purpose processors (ARM cores) that can handle a large variety of synapse and neuron models and learning rules, increasing the flexibility of the platform. SpiNNaker 2 supplements these general purpose processors with numerical accelerators and MAC arrays that efficiently handle more specific tasks: the former can be used to perform computations like exponential function and random number generation that are found often in neuromorphic models; the latter enables highly parallelized execution of multiply-accumulate operations for matrix operations that are found often in the operations of both SNNs and DNNs ([202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs](202107291348-Multiply-accumulate-arrays-efficiently-perform-matrix-multiplications-in-DNNs.md)).
