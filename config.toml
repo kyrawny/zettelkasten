@@ -1,4 +1,4 @@
-baseURL = "https://kyrawny.github.io/"
+baseURL = "https://kyrawny.github.io/zettelkasten"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
