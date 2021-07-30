@@ -6,7 +6,7 @@ tags:
 
 # Contexts
 
-[Chess](../0.-Context-Notes/Chess.md) | *ECO B12 Caro-Kann Defense - Advance Variation, Tal Variation*
+[Chess](0.-Context-Notes/Chess.md) | *ECO B12 Caro-Kann Defense - Advance Variation, Tal Variation*
 
 ---
 

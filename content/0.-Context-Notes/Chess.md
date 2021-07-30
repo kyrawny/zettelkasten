@@ -4,7 +4,7 @@ tags:
   - "#context-note"
 ---
 
-[\_index](../_index.md) > [Chess](Chess.md)
+[\_index](_index.md) > [Chess](Chess.md)
 
 ---
 

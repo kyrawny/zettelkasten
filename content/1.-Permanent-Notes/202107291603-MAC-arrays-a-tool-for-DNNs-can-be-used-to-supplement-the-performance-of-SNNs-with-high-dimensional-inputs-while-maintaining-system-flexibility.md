@@ -23,7 +23,7 @@ While platforms with dedicated circuits like Loihi are faster than the more gene
 
 ## Reference
 
-[yanComparingLoihiSpiNNaker2021](../3.-Literature-Notes/yanComparingLoihiSpiNNaker2021.md)
+[yanComparingLoihiSpiNNaker2021](3.-Literature-Notes/yanComparingLoihiSpiNNaker2021.md)
 
 ## To-do
 
