@@ -6,7 +6,7 @@ tags:
 
 # Contexts
 
-*Chess* | *ECO*
+[Chess](../0.-Context-Notes/Chess.md) | *ECO*
 
 ---
 

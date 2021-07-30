@@ -30,7 +30,7 @@ tags:
 
 ---
 
-# [Comparing Loihi with a SpiNNaker 2 Prototype on Low-Latency Keyword Spotting and Adaptive Robotic Control](zotero://select/items/@yanComparingLoihiSpiNNaker2021)
+# [Comparing Loihi with a SpiNNaker 2 Prototype on Low-Latency Keyword Spotting and Adaptive Robotic Control](zotero://select/items/yanComparingLoihiSpiNNaker2021)
 
 We implemented two neural network based benchmark tasks on a prototype chip of the second-generation SpiNNaker (SpiNNaker 2) neuromorphic system: keyword spotting and adaptive robotic control. Keyword spotting is commonly used in smart speakers to listen for wake words, and adaptive control is used in robotic applications to adapt to unknown dynamics in an online fashion. We highlight the benefit of a multiply accumulate (MAC) array in the SpiNNaker 2 prototype which is ordinarily used in rate-based machine learning networks when employed in a neuromorphic, spiking context. In addition, the same benchmark tasks have been implemented on the Loihi neuromorphic chip, giving a side-by-side comparison regarding power consumption and computation time. While Loihi shows better efficiency when less complicated vector-matrix multiplication is involved, with the MAC array, the SpiNNaker 2 prototype shows better efficiency when high dimensional vector-matrix multiplication is involved.
 
@@ -65,7 +65,7 @@ We implemented two neural network based benchmark tasks on a prototype chip of t
 
 ### MAC arrays, a tool for DNNs, can be used to supplement the performance of SNNs with high-dimensional inputs, while maintaining system flexibility
 
-[202107291603 MAC arrays, a tool for DNNs, can be used to supplement the performance of SNNs with high-dimensional inputs, while maintaining system flexibility](../1.-Permanent-Notes/202107291603-MAC-arrays,-a-tool-for-DNNs,-can-be-used-to-supplement-the-performance-of-SNNs-with-high-dimensional-inputs,-while-maintaining-system-flexibility.md)
+[202107291603 MAC arrays, a tool for DNNs, can be used to supplement the performance of SNNs with high-dimensional inputs, while maintaining system flexibility](../1.-Permanent-Notes/202107291603-MAC-arrays-a-tool-for-DNNs-can-be-used-to-supplement-the-performance-of-SNNs-with-high-dimensional-inputs-while-maintaining-system-flexibility.md)
 
 ````ad-quote
 > "While Loihi has dedicated circuits for synapses and neurons, which increases the efficiency for the implemented models, and a programmable learning engine for more flexibility for various learning rules, SpiNNaker 2 uses general purpose processors (Arm cores) connected with numerical accelerators. While the processor increases the flexibility of the synapse and neuron models and learning rules, the accelerators increase the efficiency for certain computations like exponential function and random number generation which are often required in neuromorphic applications. Besides the neuromorphic accelerators, SpiNNaker2 also contains MAC arrays for efficient matrix operations and is thus able to merge SNN and DNN operation." ([Yan et al 2021:2](zotero://open-pdf/library/items/S4TD4XET?page=2))

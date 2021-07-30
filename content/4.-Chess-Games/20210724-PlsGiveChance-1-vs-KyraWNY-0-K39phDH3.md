@@ -6,7 +6,7 @@ tags:
 
 # Contexts
 
-*Chess* | *ECO B12 Caro-Kann Defense - Advance Variation, Tal Variation*
+[Chess](../0.-Context-Notes/Chess.md) | *ECO B12 Caro-Kann Defense - Advance Variation, Tal Variation*
 
 ---
 
@@ -21,6 +21,14 @@ title: PGN
 <iframe src="https://lichess.org/embed/K39phDH3?theme=newspaper&bg=auto" width=600 height=397 frameborder=0></iframe>
 
 ## Notes
+
+### e6 is an issue
+
+### dark square bishop very important in the caro position because of weaknesses
+
+### Nd7, b6 weakens a square permanently
+
+### make plans based off what the opponent's plans are
 
 ## Related Games
 

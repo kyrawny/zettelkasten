@@ -14,11 +14,11 @@ tags:
 
 # Contexts
 
-*Chess* | \[\[\]\]
+[Chess](../0.-Context-Notes/Chess.md) | \[\[\]\]
 
 ---
 
-# [8 Chess Concepts Every Chess Player Should Know - Chess Principles, Ideas, Strategies and Tips](zotero://select/items/@chessvibesChessConceptsEvery)
+# [8 Chess Concepts Every Chess Player Should Know - Chess Principles, Ideas, Strategies and Tips](zotero://select/items/chessvibesChessConceptsEvery)
 
 This video covers 8 more crucial chess principles that are vital for every chess player to understand, from beginner to master. I talk about King Pawn Openings, Queen Pawn Openings, Endings, and Middlegame Strategy. Each of these chess concepts are clearly explained with a relevant example. You will win more games, and improve as a chess player, if you practice these chess ideas and strategies. Here's the 35 Chess Principles Video: https://youtu.be/nXyJdetptXg Chess Vibes Merchandise:👕👕👕 https://merch.streamelements.com/ches... Chess Links: ♚Play Chess Here https://chess.com?ref_id=5885046 👍Add me as a friend https://www.chess.com/member/nelsi?re... JOIN AS A MEMBER: ✔️✔️ https://www.youtube.com/channel/UChDx... Support The Channel: ☑️ https://paypal.me/ChessVibes My Favorite Books: 📗 Fundamental Chess Openings (FCO) https://amzn.to/2PPvSLl 📘 Winning Chess Endings https://amzn.to/3sqS1hy 📙 1001 Deadly Checkmates https://amzn.to/3tSVqWL 📒 1001 Brilliant Ways to Checkmate https://amzn.to/31oPNU1 Chess.com and amazon links are affiliate links.
 

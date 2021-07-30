@@ -6,7 +6,7 @@ tags:
 
 # Contexts
 
-*Chess* | *ECO A28 English Opening - King's English Variation, Four Knights Variation, Quiet Line*
+[Chess](../0.-Context-Notes/Chess.md) | *ECO A28 English Opening - King's English Variation, Four Knights Variation, Quiet Line*
 
 ---
 
@@ -49,11 +49,11 @@ width=600 height=397 frameborder=0></iframe>
 
 KID black tring to play on the kingside, white trying to play on the queenside, a4 a5 b5 b6 locks up the kingside and white is strategically lost
 
-### 
+### consider opponent's threat and see if you're fast enough
 
 ## Related Games
 
-* These games happened at the *NUS Invitationals 2021*: [20210724 - X3kx 1 vs KyraWNY 0 - LWmYf1Um](20210724---X3kx-1-vs-KyraWNY-0---LWmYf1Um.md)
+* These games happened at the *NUS Invitationals 2021*: [20210724 - X3kx 1 vs KyraWNY 0 - LWmYf1Um](20210724-X3kx-1-vs-KyraWNY-0-LWmYf1Um.md)
 
 ## To-do
 

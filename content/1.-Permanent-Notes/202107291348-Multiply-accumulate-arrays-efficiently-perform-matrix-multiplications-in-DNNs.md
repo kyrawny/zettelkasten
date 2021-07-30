@@ -23,7 +23,7 @@ MAC arrays, on the other hand, enable Single Instruction Multiple Data (SIMD) op
 
 ## Reference
 
-[@yanComparingLoihiSpiNNaker2021](../3.-Literature-Notes/@yanComparingLoihiSpiNNaker2021.md)
+[yanComparingLoihiSpiNNaker2021](../3.-Literature-Notes/yanComparingLoihiSpiNNaker2021.md)
 
 ## To-do
 
