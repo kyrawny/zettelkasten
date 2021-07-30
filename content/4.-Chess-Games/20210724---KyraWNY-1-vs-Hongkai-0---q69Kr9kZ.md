@@ -53,7 +53,7 @@ KID black tring to play on the kingside, white trying to play on the queenside, 
 
 ## Related Games
 
-* These games happened at the *NUS Invitationals 2021*: [20210724 - X3kx 1 vs KyraWNY 0 - LWmYf1Um](20210724%20-%20X3kx%201%20vs%20KyraWNY%200%20-%20LWmYf1Um.md)
+* These games happened at the *NUS Invitationals 2021*: [20210724 - X3kx 1 vs KyraWNY 0 - LWmYf1Um](20210724---X3kx-1-vs-KyraWNY-0---LWmYf1Um.md)
 
 ## To-do
 

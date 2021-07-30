@@ -2,7 +2,4 @@ enableLegend: false
 enableDrag: true
 enableZoom: true
 paths:
-  - /1. Permanent Notes: "#DEEFFA"
-  - /2. Project Notes: "#9CA7AD"
-  - /3. Literature Notes: "#FAFADE"
-  - /4. Chess Games: "#FAFADE"
+  - /hello: "#DEEFFA"

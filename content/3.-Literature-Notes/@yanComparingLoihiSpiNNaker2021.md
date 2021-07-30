@@ -51,7 +51,7 @@ We implemented two neural network based benchmark tasks on a prototype chip of t
 
 ### MAC arrays efficiently perform a large chunk of the computation in DNNs
 
-[202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs](../1.%20Permanent%20Notes/202107291348%20Multiply-accumulate%20arrays%20efficiently%20perform%20matrix%20multiplications%20in%20DNNs.md)
+[202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs](../1.-Permanent-Notes/202107291348-Multiply-accumulate-arrays-efficiently-perform-matrix-multiplications-in-DNNs.md)
 
 ````ad-quote
 > "A substantial amount of computation in DNNs is caused by the multiply-accumulate (MAC) operations" ([Yan et al 2021:2](zotero://open-pdf/library/items/S4TD4XET?page=2))
@@ -65,7 +65,7 @@ We implemented two neural network based benchmark tasks on a prototype chip of t
 
 ### MAC arrays, a tool for DNNs, can be used to supplement the performance of SNNs with high-dimensional inputs, while maintaining system flexibility
 
-[202107291603 MAC arrays, a tool for DNNs, can be used to supplement the performance of SNNs with high-dimensional inputs, while maintaining system flexibility](../1.%20Permanent%20Notes/202107291603%20MAC%20arrays,%20a%20tool%20for%20DNNs,%20can%20be%20used%20to%20supplement%20the%20performance%20of%20SNNs%20with%20high-dimensional%20inputs,%20while%20maintaining%20system%20flexibility.md)
+[202107291603 MAC arrays, a tool for DNNs, can be used to supplement the performance of SNNs with high-dimensional inputs, while maintaining system flexibility](../1.-Permanent-Notes/202107291603-MAC-arrays,-a-tool-for-DNNs,-can-be-used-to-supplement-the-performance-of-SNNs-with-high-dimensional-inputs,-while-maintaining-system-flexibility.md)
 
 ````ad-quote
 > "While Loihi has dedicated circuits for synapses and neurons, which increases the efficiency for the implemented models, and a programmable learning engine for more flexibility for various learning rules, SpiNNaker 2 uses general purpose processors (Arm cores) connected with numerical accelerators. While the processor increases the flexibility of the synapse and neuron models and learning rules, the accelerators increase the efficiency for certain computations like exponential function and random number generation which are often required in neuromorphic applications. Besides the neuromorphic accelerators, SpiNNaker2 also contains MAC arrays for efficient matrix operations and is thus able to merge SNN and DNN operation." ([Yan et al 2021:2](zotero://open-pdf/library/items/S4TD4XET?page=2))

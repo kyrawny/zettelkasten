@@ -33,12 +33,12 @@ c) Summary/conclusion (underscoring the main idea your review)
 
 ### Permanent Notes
 
-* [202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs](../1.%20Permanent%20Notes/202107291348%20Multiply-accumulate%20arrays%20efficiently%20perform%20matrix%20multiplications%20in%20DNNs.md)
-* [202107291603 MAC arrays, a tool for DNNs, can be used to supplement the performance of SNNs with high-dimensional inputs, while maintaining system flexibility](../1.%20Permanent%20Notes/202107291603%20MAC%20arrays,%20a%20tool%20for%20DNNs,%20can%20be%20used%20to%20supplement%20the%20performance%20of%20SNNs%20with%20high-dimensional%20inputs,%20while%20maintaining%20system%20flexibility.md)
+* [202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs](../1.-Permanent-Notes/202107291348-Multiply-accumulate-arrays-efficiently-perform-matrix-multiplications-in-DNNs.md)
+* [202107291603 MAC arrays, a tool for DNNs, can be used to supplement the performance of SNNs with high-dimensional inputs, while maintaining system flexibility](../1.-Permanent-Notes/202107291603-MAC-arrays,-a-tool-for-DNNs,-can-be-used-to-supplement-the-performance-of-SNNs-with-high-dimensional-inputs,-while-maintaining-system-flexibility.md)
 
 ### Literature Notes
 
-[@yanComparingLoihiSpiNNaker2021](../3.%20Literature%20Notes/@yanComparingLoihiSpiNNaker2021.md)
+[@yanComparingLoihiSpiNNaker2021](../3.-Literature-Notes/@yanComparingLoihiSpiNNaker2021.md)
 
 ## Quick Notes
 
