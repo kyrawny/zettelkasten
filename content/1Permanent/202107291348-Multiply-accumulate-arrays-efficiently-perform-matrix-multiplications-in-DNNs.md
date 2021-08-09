@@ -1,8 +1,9 @@
 ---
-title: 202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs
+title: 202107291348 Multiply accumulate arrays efficiently perform matrix multiplications in DNNs
 date: 20210729
 aliases:
   - "202107291348"
+  - 202107291348 Multiply accumulate arrays efficiently perform matrix multiplications in DNNs
 tags:
   - "#permanent-note"
 ---
@@ -13,9 +14,9 @@ tags:
 
 ---
 
-# 202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs
+# 202107291348 Multiply accumulate arrays efficiently perform matrix multiplications in DNNs
 
-## -
+## <!-- - -->
 
 Every connection between neurons in a deep neural network is assigned a weight. Inputs to the deep neural network are multiplied by these weights. Thus, in the forward pass of a deep neural network, much of the computation done consists of vector matrix multiplications. In computing, these calculations are achieved through the accumulation of products, via multiply-accumulate operations.
 
@@ -23,9 +24,9 @@ Multiply accumulate operations are more efficient on the MAC arrays than general
 
 MAC arrays, on the other hand, enable Single Instruction Multiple Data (SIMD) operation: in each clock cycle, multiple values from both operands are fed into the array, with all MAC units in the same row receiving the same value from one operand and all MAC units in the same column receiving the same value from the other operand. This allows for many MAC operations to be done in parallel - one for each MAC unit. When paired with a general-purpose processor, the latter can control logic of data arranging and data transfer to the MAC array in parallel to the MAC operations. This parallelization greatly increases the efficiency of multiply-accumulate operations, and thus greatly reduces the time needed to perform a forward pass in a DNN.
 
-## Reference
+## References
 
-[yanComparingLoihiSpiNNaker2021](yanComparingLoihiSpiNNaker2021.md)
+[2Literature/yanComparingLoihiSpiNNaker2021 > 1 Permanent Notes 202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs 202107291348 Multiply-accumulate arrays efficiently perform matrix multiplications in DNNs](2Literature/yanComparingLoihiSpiNNaker2021.md#1-permanent-notes-202107291348-multiply-accumulate-arrays-efficiently-perform-matrix-multiplications-in-dnns-202107291348-multiply-accumulate-arrays-efficiently-perform-matrix-multiplications-in-dnns)
 
 ## To-do
 

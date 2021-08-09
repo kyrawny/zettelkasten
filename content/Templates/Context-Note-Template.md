@@ -1,14 +1,16 @@
 ---
-title: Chess
+title: "{{title}}"
+aliases:
+  - "{{title}}"
 tags:
   - "#context-note"
 ---
 
-[\_index]() > [Context - Chess](Context-Chess.md)
+[Home]() > \[\[\]\]
 
 ---
 
-# Chess
+# {{title}}
 
 What is this context about?
 

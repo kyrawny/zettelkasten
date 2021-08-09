@@ -1,12 +1,15 @@
 ---
 title: 20210724 - KyraWNY 1 vs Hongkai 0 - q69Kr9kZ
+type: chess game
+aliases:
+  - 20210724 - KyraWNY 1 vs Hongkai 0 - q69Kr9kZ
 tags:
-  - "#chess-game"
+  - "#literature-note"
 ---
 
 # Contexts
 
-[Context - Chess](Context-Chess.md) | *ECO A28 English Opening - King's English Variation, Four Knights Variation, Quiet Line*
+[0Context/Chess](0Context/Chess.md) | *ECO A28 English Opening - King's English Variation, Four Knights Variation, Quiet Line* | *A10-A39 English opening*
 
 ---
 
@@ -53,7 +56,7 @@ KID black tring to play on the kingside, white trying to play on the queenside, 
 
 ## Related Games
 
-* These games happened at the *NUS Invitationals 2021*: [20210724 - X3kx 1 vs KyraWNY 0 - LWmYf1Um](20210724-X3kx-1-vs-KyraWNY-0-LWmYf1Um.md)
+* These games happened at the *NUS Invitationals 2021*: [2Literature/20210724 X3kx 1 vs KyraWNY 0 LWmYf1Um](20210724-X3kx-1-vs-KyraWNY-0-LWmYf1Um.md)
 
 ## To-do
 

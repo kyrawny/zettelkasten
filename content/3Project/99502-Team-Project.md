@@ -1,7 +1,10 @@
 ---
 title: Project - 99502 Team Project
+aliases:
+  - 99502 Team Project
 tags:
   - "#project-note"
+  - "#done"
 ---
 
 # Contexts
@@ -17,18 +20,18 @@ Students in a group of 2 will produce two simulation models to demonstrate the a
 ## To-do
 
 * [x] What is this project about?
-* [ ] Add contexts
-* [ ] Fill up the To-do
+* [x] Add contexts
+* [x] Fill up the To-do
 
 ## References
 
 ### Permanent Notes
 
-\[\[\]\]
+* \[\[\]\]
 
 ### Literature Notes
 
-\[\[\]\]
+* [Towards spike-based machine intelligence with neuromorphic computing](2Literature/roySpikebasedMachineIntelligence2019.md)
 
 ## Quick Notes
 

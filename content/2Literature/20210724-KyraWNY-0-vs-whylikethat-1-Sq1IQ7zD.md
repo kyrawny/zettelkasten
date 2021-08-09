@@ -1,12 +1,15 @@
 ---
 title: 20210724 - KyraWNY 0 vs whylikethat 1 - Sq1IQ7zD
+type: chess game
+aliases:
+  - 20210724 - KyraWNY 0 vs whylikethat 1 - Sq1IQ7zD
 tags:
-  - "#chess-game"
+  - "#literature-note"
 ---
 
 # Contexts
 
-[Context - Chess](Context-Chess.md) | *ECO A18 English Opening - Mikenas-Carls Variation*
+[0Context/Chess](0Context/Chess.md) | *ECO A18 English Opening - Mikenas-Carls Variation* | *A10-A39 English opening*
 
 ---
 

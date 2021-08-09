@@ -1,5 +1,7 @@
 ---
-title: Project - Affect Detection Through Body Language Review Paper
+title: "{{title}}"
+aliases:
+  - "{{title}}"
 tags:
   - "#project-note"
 ---
@@ -10,7 +12,7 @@ tags:
 
 ---
 
-# Project - Affect Detection Through Body Language Review Paper
+# {{title}}
 
 What is this project about?
 
@@ -24,11 +26,11 @@ What is this project about?
 
 ### Permanent Notes
 
-\[\[\]\]
+* \[\[\]\]
 
 ### Literature Notes
 
-\[\[\]\]
+* \[\[\]\]
 
 ## Quick Notes
 

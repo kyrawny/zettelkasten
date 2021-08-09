@@ -1,12 +1,15 @@
 ---
 title: 20210724 - PlsGiveChance 1 vs KyraWNY 0 - K39phDH3
+type: chess game
+aliases:
+  - 20210724 - PlsGiveChance 1 vs KyraWNY 0 - K39phDH3
 tags:
-  - "#chess-game"
+  - "#literature-note"
 ---
 
 # Contexts
 
-[Context - Chess](Context-Chess.md) | *ECO B12 Caro-Kann Defense - Advance Variation, Tal Variation*
+[0Context/Chess](0Context/Chess.md) | *ECO B12 Caro-Kann Defense - Advance Variation, Tal Variation* | *B10-B19 Caro-Kann defence*
 
 ---
 

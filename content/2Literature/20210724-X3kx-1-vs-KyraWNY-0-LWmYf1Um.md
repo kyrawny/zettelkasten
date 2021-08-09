@@ -1,12 +1,15 @@
 ---
 title: 20210724 - X3kx 1 vs KyraWNY 0 - LWmYf1Um
+type: chess game
+aliases:
+  - 20210724 - X3kx 1 vs KyraWNY 0 - LWmYf1Um
 tags:
-  - "#chess-game"
+  - "#literature-note"
 ---
 
 # Contexts
 
-[Context - Chess](Context-Chess.md) | *ECO A53 Old Indian Defense*
+[0Context/Chess](0Context/Chess.md) | *ECO A53 Old Indian Defense* | *A53-A55 Old Indian defence*
 
 ---
 
@@ -19,13 +22,15 @@ title: PGN
 ````
 
 <iframe src="https://lichess.org/embed/LWmYf1Um?theme=newspaper&bg=auto"
-width=600 height=397 frameborder=0></iframe>
+width=375 height=620 frameborder=0></iframe>
+
+[GM Kevin Goh analysis](file:///Volumes/GoogleDrive/My Drive/_Sync/Recordings/20210727_kevingoh_X3kxVSKyraWNY/zoom_0.mp4)
 
 ## Notes
 
 ### Old Benoni occupy dark squares, trading away light square bishop is normal because it's so terrible
 
-### Superfluous knights, f6 d7 taking away each other squares, Nf6-e8 opens up the dark square bishop
+### Superfluous knights, f6 d7 taking away each other squares, Nf6-e8 opens up the dark square bishop [00:02](file:///Volumes/GoogleDrive/My-Drive/_Sync/Recordings/20210727_kevingoh_X3kxVSKyraWNY/zoom_0.mp4#t=2.082864)
 
 ### Benko gambit different from most pawn gambits, more of a positional advantage rather than short term tactical
 

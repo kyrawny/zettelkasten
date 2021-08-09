@@ -6,7 +6,9 @@ relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/Templates/*",
-    "/content/private/*",
+    "/content/Dataview/*",
+    "/content/Planner/*",
+    "/content/Fleeting Notes.md"
 ]
 
 [markup]

@@ -6,14 +6,10 @@ tags:
 
 # Welcome to Kyra's second brain.
 
-[Fleeting Notes](Fleeting-Notes.md)
+* [\_index](_index.md)
+  * [0Context/Chess](0Context/Chess.md)
 
-## Contexts
+## Current Projects
 
-* [Context - Chess](Context-Chess.md)
-
-## Projects
-
-* [Project - 99502 Critical Paper Review](Project-99502-Critical-Paper-Review.md)
-* [Project - 99502 Team Project](Project-99502-Team-Project.md)
-* [Project - Affect Detection Through Body Language Review Paper](Project-Affect-Detection-Through-Body-Language-Review-Paper.md)
+* [99502 Critical Paper Review](3Project/99502-Critical-Paper-Review.md)
+* [Affect Detection Through Body Language Review Paper](3Project/Affect-Detection-Through-Body-Language-Review-Paper.md)
